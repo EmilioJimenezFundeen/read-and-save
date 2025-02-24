@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+.venv/
+.env/
+Scripts/
+Lib/
+Include/
+
+
+# Archivos de configuración de PyCharm y VS Code
+.idea/
+.vscode/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Dependencias instaladas (se recomienda guardar solo requirements.txt)
+Pipfile
+Pipfile.lock
+
+# Archivos de cache
+.cache/
